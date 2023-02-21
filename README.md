@@ -72,4 +72,4 @@ Most languages have specialized Elasticsearch libraries to make it even easier. 
 
 ## Analytic Tools
 
-Web-based graphical UIs such as Kibana let you interact with your indices, and explore them without writing code
+Web-based graphical UIs, such as Kibana, let you interact with your indices, and explore them without writing code
